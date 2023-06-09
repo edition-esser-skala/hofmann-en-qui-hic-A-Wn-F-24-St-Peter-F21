@@ -1,0 +1,16 @@
+composer:
+  last: Hofmann
+  first: Leopold
+title: En? Qui hic
+subtitle: Motetto de Nativitate Domini
+genre: motet
+scoring: S (solo), S, A, T, B (coro), 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: F.24.St.Peter.F21
+    url: https://data.onb.ac.at/rec/AC14273923
+    license: public domain
+    principal: true
+imslp:
