@@ -1,7 +1,7 @@
 composer:
   last: Hofmann
   first: Leopold
-title: En? Qui hic
+title: En? qui hic in cunis vagit
 subtitle: Motetto de Nativitate Domini
 genre: motet
 scoring: S (solo), S, A, T, B (coro), 2 trb, 2 vl, b, org
@@ -13,4 +13,5 @@ sources:
     url: https://data.onb.ac.at/rec/AC14273923
     license: public domain
     principal: true
+    notes: parts for S solo (2×), S rip (2×), A rip (3×), T rip (4×), B rip (3×), vl 1 (2×), vl~2~(3×), vlc, vlne, fag, trb 1, trb 2, org, and maestro di capella
 imslp:
