@@ -6,11 +6,11 @@ EnTenore = {
     \key b \major \time 4/4 \autoBeamOff \tempoEn
     R1*18 \noBreak %18
     R1\fermata \bar "||"
-    \twofourtime \key es \major \time 2/4 \tempoSumma \newSpacingSection
+    \twofourtime \key es \major \time 2/4 \tempoSumma
       \partial 8 r8 \noBreak %20
     R2*99 \noBreak %119
     R2\fermata \bar "||" %120
-    \key b \major \time 3/8 \tempoHuc \newSpacingSection R4.*12 %132
+    \key b \major \time 3/8 \tempoHuc R4.*12 %132
     \mvTr b4\fE^\tutti a8
     b([ c)] d
     c([ b)] a %135
@@ -142,7 +142,7 @@ EnTenoreLyricsLatin = \lyricmode {
 }
 
 EnTenoreLyricsGerman = \lyricmode {
-  \xE Tragt zu %133
+  Tragt zu %133
   rei -- nen
   op -- fer %135
   Flam -- men

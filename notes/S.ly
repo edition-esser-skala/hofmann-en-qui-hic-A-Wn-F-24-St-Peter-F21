@@ -18,7 +18,7 @@ EnSoprano = {
     g4 g r2
     r4 es' es8 c a b \noBreak
     b8. f16 f4 r2\fermata \bar "||" %20
-    \twofourtime \key es \major \time 2/4 \tempoSumma \newSpacingSection
+    \twofourtime \key es \major \time 2/4 \tempoSumma
     \partial 8 r8 \noBreak R2*16 %36
     r4 r8 \mvTr b\pE^\solo
     es es, es es
@@ -86,7 +86,7 @@ EnSoprano = {
     es4 r
     R2*11 \noBreak %119
     R2\fermata \bar "||" %120
-    \key b \major \time 3/8 \tempoHuc \newSpacingSection
+    \key b \major \time 3/8 \tempoHuc
       R4.*12 %132
     \mvTr b'4\fE^\tutti c8
     d([ es)] f
@@ -297,7 +297,7 @@ EnSopranoLyricsLatin = \lyricmode {
 }
 
 EnSopranoLyricsGerman = \lyricmode {
-  \xE Wie? ſoll die -- ſes klei -- ne %7
+  Wie? ſoll die -- ſes klei -- ne %7
   Kind __ _ der ſtar -- ke Sie -- ger
   hei -- ßen,
 

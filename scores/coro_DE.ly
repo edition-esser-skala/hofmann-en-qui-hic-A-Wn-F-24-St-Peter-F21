@@ -5,7 +5,7 @@
 
 \book {
   \bookpart {
-    \section "1" "First"
+    \section "En? qui hic in cunis vagit"
     \addTocEntry
     \paper { indent = 2\cm }
     \score {
@@ -13,33 +13,33 @@
         \new ChoirStaff <<
           \new Staff {
             \set Staff.instrumentName = "Soprano"
-            \new Voice = "Soprano" { \dynamicUp \xxxSoprano }
+            \new Voice = "Soprano" { \dynamicUp \EnSoprano }
           }
-          \new Lyrics \lyricsto Soprano \xxxSopranoLyrics
+          \new Lyrics \lyricsto Soprano \EnSopranoLyricsGerman
 
           \new Staff {
             \set Staff.instrumentName = "Alto"
-            \new Voice = "Alto" { \dynamicUp \xxxAlto }
+            \new Voice = "Alto" { \dynamicUp \EnAlto }
           }
-          \new Lyrics \lyricsto Alto \xxxAltoLyrics
+          \new Lyrics \lyricsto Alto \EnAltoLyricsGerman
 
           \new Staff {
             \set Staff.instrumentName = "Tenore"
-            \new Voice = "Tenore" { \dynamicUp \xxxTenore }
+            \new Voice = "Tenore" { \dynamicUp \EnTenore }
           }
-          \new Lyrics \lyricsto Tenore \xxxTenoreLyrics
+          \new Lyrics \lyricsto Tenore \EnTenoreLyricsGerman
 
           \new Staff {
             \set Staff.instrumentName = "Basso"
-            \new Voice = "Basso" { \dynamicUp \xxxBasso }
+            \new Voice = "Basso" { \dynamicUp \EnBasso }
           }
-          \new Lyrics \lyricsto Basso \xxxBassoLyrics
+          \new Lyrics \lyricsto Basso \EnBassoLyricsGerman
         >>
         \new Staff {
           \set Staff.instrumentName = "Organo"
-          \xxxOrgano
+          \EnOrgano
         }
-        \new FiguredBass { \xxxBassFigures }
+        \new FiguredBass { \EnBassFigures }
       >>
     }
   }

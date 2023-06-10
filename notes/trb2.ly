@@ -11,7 +11,7 @@ EnTromboneII = {
     c4 r r2
     R1*11 \noBreak %18
     R1\fermata \bar "||"
-    \twofourtime \key es \major \time 2/4 \tempoSumma \newSpacingSection
+    \twofourtime \key es \major \time 2/4 \tempoSumma
     \partial 8 r8 \noBreak %20
     r g\fE g g \noBreak
     g4 r
@@ -92,7 +92,7 @@ EnTromboneII = {
     g g'4 f8
     es g4 f8 \noBreak
     es g,16 g g8 r\fermata \bar "||" %120
-    \key b \major \time 3/8 \tempoHuc \newSpacingSection R4.*12 %132
+    \key b \major \time 3/8 \tempoHuc R4.*12 %132
     b4\fE a8
     b c d
     c b a %135

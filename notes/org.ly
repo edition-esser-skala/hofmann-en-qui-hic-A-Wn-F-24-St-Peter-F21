@@ -23,7 +23,7 @@ EnOrgano = {
     r2 r16. b32 b16. b32 b16. h32 h16. h32
     c4 r r2 \noBreak
     r4 r8 f b,4 r\fermata \bar "||"
-    \twofourtime \key es \major \time 2/4 \tempoSumma \newSpacingSection
+    \twofourtime \key es \major \time 2/4 \tempoSumma
     \partial 8 r8 \noBreak %20
     r \mvTr c\fE-\soloE b as \noBreak
     g g'16 f g8 es
@@ -125,7 +125,7 @@ EnOrgano = {
     es4 r8 b
     es4 r8 b \noBreak
     es es es r\fermata \bar "||" %120
-    \key b \major \time 3/8 \tempoHuc \newSpacingSection
+    \key b \major \time 3/8 \tempoHuc
       \mvTr b4\fE-\soloE r8 \noBreak
     b4 r8
     r r f'

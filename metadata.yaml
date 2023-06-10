@@ -14,4 +14,7 @@ sources:
     license: public domain
     principal: true
     notes: parts for S solo (2×), S rip (2×), A rip (3×), T rip (4×), B rip (3×), vl 1 (2×), vl~2~(3×), vlc, vlne, fag, trb 1, trb 2, org, and maestro di capella
-imslp:
+imslp: En%3F_qui_hic_in_cunis_vagit_(Hofmann,_Leopold)
+parts:
+  coro_DE: Coro (German)
+  coro_LA: Coro (Latin)

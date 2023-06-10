@@ -23,7 +23,7 @@ EnViolinoI = {
     r2 r16. g32 g16. g32 g16. d'32 d16. d32
     es4 r r2 \noBreak
     R1\fermata \bar "||"
-    \twofourtime \key es \major \time 2/4 \tempoSumma \newSpacingSection
+    \twofourtime \key es \major \time 2/4 \tempoSumma
       \partial 8 b8\fE \noBreak %20
     es <es, g,>(-. q-. q-.) \noBreak
     q4. b'16( g)
@@ -125,7 +125,7 @@ EnViolinoI = {
     es8.\! b16 b'( g) as( d,)
     es8. b16 b'( g) as( d,) \noBreak
     es8 g16( b,) es8 r\fermata \bar "||" %120
-    \key b \major \time 3/8 \tempoHuc \newSpacingSection
+    \key b \major \time 3/8 \tempoHuc
       <d b'>4\fE d'16( f,) \noBreak
     <b d,>4 f'16( d)
     b'( f) d( b) c( f,)
